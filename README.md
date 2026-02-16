@@ -22,11 +22,12 @@ Currently working at **iMoSyS** as a Middle Level Software Developer, contributi
 - JavaScript / TypeScript
 - Svelte, Tailwind CSS
 
-### 🗄 Databases
+### Databases
 - SQL Server
 - MySQL
 - PostgreSQL
 - Oracle
+- TypeORM
 
 ### APIs & Integrations
 - RESTful APIs (JSON/HTTP)
@@ -44,7 +45,7 @@ Currently working at **iMoSyS** as a Middle Level Software Developer, contributi
 
 ## Professional Experience
 
-### 🏢 iMoSyS – Middle Level Software Developer (Nov 2024 – Present)
+### iMoSyS – Middle Level Software Developer (Nov 2024 – Present)
 - Developing and maintaining backend services for enterprise applications
 - Implementing secure APIs and optimizing system performance
 - Managing databases and ensuring data integrity
