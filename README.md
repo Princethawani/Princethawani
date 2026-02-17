@@ -86,9 +86,9 @@ Currently working at **iMoSyS** as a Middle Level Software Developer, contributi
 
 ## Contact
 
-📧 Email: princethawani4@gmail.com  
-🌍 Website: www.princethawani.com  
-📱 Phone: +265 991 682 966  
+Email: princethawani4@gmail.com  
+Website: www.princethawani.com  
+Phone: +265 991 682 966  
 
 ---
 
