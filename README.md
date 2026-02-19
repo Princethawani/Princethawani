@@ -1,6 +1,6 @@
 # 💫 About Me
-👋 Hi, I’m @princethawani  
-👀 I’m a Web and Mobile Developer from Malawi  
+👋 Hi, I’m Prince Thawani  
+👀 I’m a Software Developer from Malawi  
 
 🌐 Website:
 https://princethawani.com/
