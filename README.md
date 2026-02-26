@@ -1,6 +1,6 @@
 # 💫 About Me
 👋 Hi, I’m Prince Thawani  
-👀 I’m a Software Developer from Malawi  
+👀 I’m a Professional Software Developer with more than 3 years of experience working with different organizations from Malawi, Currently working for iMoSyS https://www.imosys.mw/ as a Middle Level Software Developer.
 
 🌐 Website:
 https://princethawani.com/
