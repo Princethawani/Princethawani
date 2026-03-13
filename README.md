@@ -34,6 +34,18 @@ https://princethawani.com/
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-FF4081?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-DockerCompose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![SSH](https://img.shields.io/badge/-SSH-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+![VPS](https://img.shields.io/badge/-VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
+![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-MachineLearning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
 
 
