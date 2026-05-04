@@ -1,9 +1,9 @@
 # 💫 About Me
-👋 Hi, I’m Prince Thawani  
-👀 **BSc Management Information System** Professional Software Developer with more than 3 years of experience working with different organizations from Malawi, Currently working for iMoSyS https://www.imosys.mw/ as a Middle Level Software Developer.
+👋 Hi, I’m Prince Thawani
+👀 BSc in Management Information Systems | Certified AWS Cloud Practitioner
+💻 Professional Software Developer with over 3 years of experience, working with various organizations in Malawi. Currently a Mid-Level Software Developer at iMoSyS.
 
-🌐 Website:
-https://princethawani.com/
+🌐 Website: https://princethawani.com/
 
  
 
